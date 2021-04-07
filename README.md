@@ -1,7 +1,9 @@
-# gitworkshop
-This repository contains all the commands we discussed in the workshop.
+# Git Workshop
 
-GIT AND GITHUB COMMANDS
+#### This repository contains all the commands we discussed in the workshop.
+
+### GIT AND GITHUB COMMANDS
+
 * to know hiddend files -> ls -a(this is without permission)
 * to know all the files with permissions -> ls -la(this is with permission)
 * to know verion in git -> git --version
