@@ -32,5 +32,31 @@ S.No  | Name
 ------|------
 01    | Android
 02    | Beta
+03    | Cupcake
+04|Donut 
   
+  
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+
+```java
+Class classname(){
+public static void main(String args[]){
+c=a+b;
+System.out.println(c);
+}
+}
+```
 
